@@ -1,4 +1,6 @@
 <img src="fallen_person.png" width=80% height=50%>
+
+
 # Fallen Person Detection (Video Processing)
 
 The Fallen Person Detection project aims to develop an automated system that can detect when a person has fallen and alert relevant parties for timely assistance. Falls can be particularly dangerous, especially for vulnerable individuals such as the elderly or those with medical conditions. This project utilizes computer vision and machine learning techniques to analyze video feeds or image data in real-time and identify instances of a person falling.
