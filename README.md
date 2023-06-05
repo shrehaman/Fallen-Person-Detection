@@ -7,6 +7,9 @@ The Fallen Person Detection project aims to develop an automated system that can
 
 The system utilizes advanced algorithms and deep learning models to detect human poses and movements. It can accurately distinguish between normal activities and falls, minimizing false alarms.
 
+
+Project - 12
+
 ## Table of Contents
 
 - [Installation](#installation)
